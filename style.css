@@ -1,0 +1,19 @@
+.container
+{
+    text-align: center;
+}
+#myCarousel{
+    background-color: darkred;
+    color: white;
+}
+#myCarousel img{
+    margin-top: 35px;
+    height: 300px;
+}
+#Grid img{
+    width: 250;
+    height: 250;
+}
+body{
+    text-align: center;
+}
